@@ -1,0 +1,34 @@
+.bg-color-carousel{
+    background-color: #fceae8;
+}
+.panda-text-color{
+    color: #212529;
+}
+.panda-color{
+    color: #ff136f;
+}
+.panda-btn{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.rounded-border{
+    border-radius: 10px;
+}
+.panda-padding{
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.m-tb{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.bg-color-watch{
+    background-color: #ffa500;
+    
+}
+.categories img{
+    width: 100px;
+    height: 100px;
+}
